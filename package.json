@@ -1,0 +1,25 @@
+{
+   "name": "twilio-phone-translator",
+   "description": "Twilio Phone Translator",
+   "version": "0.0.0-74",
+   "private": true,
+   "dependencies": {
+      "express": "3.2.4",
+      "request": "2.21.0"
+   },
+   "subdomain": "twilio.phonetranslator",
+   "scripts": {
+      "start": "app.js"
+   },
+   "engines": {
+      "node": "0.8.x"
+   },
+   "bundledDependencies": [
+      "express",
+      "request"
+   ],
+   "env": {
+      "npm_config_rebuild_bundle": false,
+      "npm_config_production": true
+   }
+}
