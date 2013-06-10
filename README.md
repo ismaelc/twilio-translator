@@ -1,4 +1,4 @@
-## Twilio Translator
+## Twilio SMS Translator using Mashape APIs
 
 A Twilio service that translates back an SMS message. 
 It also calls you back with a pronunciation in the local language. 
