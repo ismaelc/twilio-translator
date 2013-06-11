@@ -4,7 +4,7 @@ A Twilio service that translates back an SMS message.
 It also calls you back with a pronunciation in the local language. 
 Useful if you're traveling - especially in occasions where your telco signal 
 is a better option than wifi. 
-Uses node.js and [Mashape](http://mashape.com/) APIs (language detection, language translation, and text-to-voice)
+Uses node.js and [Mashape](http://mashape.com/) APIs ([language detection](https://www.mashape.com/sprawk/language-detection#!documentation), [language translation](https://www.mashape.com/translated/mymemory-translation-memory#!documentation), and [text-to-voice](https://www.mashape.com/yambal/text-to-voice#!documentation))
 
 ### Try the service
 
